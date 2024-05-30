@@ -1,7 +1,7 @@
 # CyberSecurity-Journal
 
 Introduction:
-Welcome to my Cybersecurity Journal! This repository is a comprehensive portfolio showcasing my journey and development in the field of cybersecurity. Here, you will find detailed documentation of my learning path, practical projects, and hands-on experiences.
+* Welcome to my Cybersecurity Journal! This repository is a comprehensive portfolio showcasing my journey and development in the field of cybersecurity. Here, you will find detailed documentation of my learning path, practical projects, and hands-on experiences.
 
 Purpose:
 * Document my progress in cybersecurity.
