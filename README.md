@@ -9,9 +9,9 @@ Purpose:
 * Showcase my skills and knowledge to potential employers and/or clients.
 
 Content:
-CTF write-ups
-THM Rooms 
-HackTheBox Rooms
-and some coding projects (web applications made in C#)
+* CTF write-ups
+* THM Rooms 
+* HackTheBox Rooms
+* and some coding projects (web applications made in C#)
 
 For more Web application projects you can check my other github: github.com/mathypathy :) 
