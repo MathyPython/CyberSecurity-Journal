@@ -10,8 +10,9 @@ Purpose:
 
 Content:
 * CTF write-ups
+* Home Labs
 * THM Rooms 
 * HackTheBox Rooms
 * and some coding projects (web applications made in C#)
 
-For more Web application projects you can check my other github: github.com/mathypathy :) 
+Follow and enjoy the journey together with me! 
