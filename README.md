@@ -11,7 +11,7 @@ Purpose:
 Content:
 * CTF write-ups
 * Home Labs
-* THM Rooms 
+* [THM Rooms](https://github.com/MathyPython/CyberSecurity-Journal/tree/main/THMRooms) 
 * HackTheBox Rooms
 * and some coding projects (web applications made in C#)
 
