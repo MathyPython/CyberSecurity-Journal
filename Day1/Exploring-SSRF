@@ -9,17 +9,14 @@ Steps Taken:
 
 * Account Creation:
 Created a new account on the ACME IT Support website. This was necessary to gain access to the /customers/new-account-page where the SSRF vulnerability could be exploited.
-![Screenshot of the app](images/acmeitaccountmaking.png)
 Identifying the Vulnerability:
 On the new account page, I found an option to choose an avatar. Each avatar choice was represented by a radio button with a value pointing to different image assets, such as /image/assetX.
 
 * Initial Attempt:
 I first attempted to change the value of the avatar selection to /private, hoping it would grant access to the directory. However, this resulted in an error message: "URL cannot start with private."
-![Images of the error](images/privateerror.png)
 Bypassing the Restriction:
 To bypass this restriction, I applied a directory traversal technique. I modified the value to x/../private. This trick essentially moved one directory up and then accessed the /private directory.
 This adjustment successfully bypassed the block, allowing me to retrieve the flag needed to complete the room.
-![Images of the bypass](images/flagfound.png)
 What I Learned:
 Directory Traversal Basics:
 I learned how directory traversal can be used to bypass access controls by manipulating file paths. This involves using special sequences like ../ to navigate through the file system, potentially accessing sensitive directories or files.
