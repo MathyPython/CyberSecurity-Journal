@@ -49,5 +49,4 @@ This exercise was also an introduction to SSRF, where the server is tricked into
 can lead to data leaks, internal network scanning, and further exploits.
 
 Practical Application:
-By engaging in hands-on practice through TryHackMe, I gained a better understanding of the theoretical concepts and their practical applications. 
-This kind of interactive learning is invaluable for reinforcing security principles and preparing for real-world scenarios.
+By engaging in hands-on practice through TryHackMe, I gained a better understanding of the concepts and their practical applications. 
