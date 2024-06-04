@@ -21,9 +21,13 @@ I first attempted to change the value of the avatar selection to /private, hopin
 Bypassing the Restriction:
 To bypass this restriction, I applied a directory traversal technique. I modified the value to x/../private. This trick essentially moved one directory up and then accessed the /private directory.
 This adjustment successfully bypassed the block, allowing me to retrieve the flag needed to complete the room. 
+
 ![Images here](images/flagfound.png)
+
 I also need to decode the base64 value. 
+
 ![Images here](images/decodebase64.png)
+
 You can find the flag in the flag.txt file for easy access. 
 
 What I Learned:
