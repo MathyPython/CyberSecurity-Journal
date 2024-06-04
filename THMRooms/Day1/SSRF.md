@@ -11,6 +11,7 @@ Steps Taken:
 Account Creation:
 Created a new account on the ACME IT Support website. This was necessary to gain access to the /customers/new-account-page where the SSRF vulnerability could be exploited.
 ![Images here](images/acmeitaccountmaking.png)
+
 Identifying the Vulnerability:
 On the new account page, I found an option to choose an avatar. Each avatar choice was represented by a radio button with a value pointing to different image assets, such as /image/assetX.
 
